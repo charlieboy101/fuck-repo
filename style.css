@@ -1,0 +1,9 @@
+.card-body {
+    background-color: black;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
